@@ -10,6 +10,8 @@ This assistant performs three major tasks:
 2. **LLM Integration**: It uses a large language model to generate natural language responses.
 3. **Agentic Workflow**: It decides whether to use a custom tool (calculator/dictionary) or the RAG + LLM pipeline.
 
+## ✨ Try It Now
+🔗 **Live Demo**: [Click here to try the app](https://inflera-rag-app.streamlit.app/)
 
 ## 🚀 Features
 
