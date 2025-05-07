@@ -55,11 +55,15 @@ This assistant performs three major tasks:
    ```bash
    api_key = os.environ.get("GOOGLE_API_KEY", "you_api_key")
    ```
-
-6. **Run the App**
+5. **Run on CLI**
 
    ```bash
-   streamlit run rag_agent_app.py
+   python rag_agent.py
+   ```
+6. **Run the Streamlit App**
+
+   ```bash
+   streamlit run app.py
    ```
 
 
