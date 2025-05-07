@@ -115,7 +115,7 @@ def main():
             st.session_state["api_key"] = api_key
             st.success("API key set! You can now use the assistant.")
 
-        st.header("Upload Documents")
+        st.header("Upload Documents from the sample documents only**")
         uploaded_file = st.file_uploader("Choose a file", type=["txt", "md", "pdf"])
         
         if uploaded_file is not None:
