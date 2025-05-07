@@ -3,7 +3,7 @@ import streamlit as st
 import google.generativeai as genai
 import logging
 from typing import List, Dict, Any
-from Inflera_RAG_Application.rag_agent import DocumentLoader, TextChunker, VectorStore, Tools, Agent
+from rag_agent import DocumentLoader, TextChunker, VectorStore, Tools, Agent
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
