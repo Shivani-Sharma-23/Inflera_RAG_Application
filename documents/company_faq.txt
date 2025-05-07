@@ -1,0 +1,26 @@
+# TechCorp Frequently Asked Questions
+
+## About TechCorp
+TechCorp was founded in 2010 by Jane Smith and Michael Chen. Our mission is to create innovative software solutions that make businesses more efficient and productive. We currently have offices in San Francisco, New York, and London, with over 500 employees worldwide.
+
+## Products and Services
+TechCorp offers a range of enterprise software solutions:
+- TechFlow: Our flagship project management software
+- DataSense: Business intelligence and analytics platform
+- CloudConnect: Secure cloud storage and file sharing
+- SecureGuard: Cybersecurity protection suite
+
+## Pricing
+Our products are available through subscription models:
+- Basic: $49/month per user
+- Professional: $99/month per user
+- Enterprise: Custom pricing, contact sales
+
+## Technical Support
+Technical support is available 24/7 through:
+- Email: support@techcorp.com
+- Phone: 1-800-TECH-HELP
+- Live Chat: Available on our website
+
+## Return Policy
+We offer a 30-day money-back guarantee on all subscription plans. If you're not satisfied with our products, you can cancel within 30 days for a full refund.

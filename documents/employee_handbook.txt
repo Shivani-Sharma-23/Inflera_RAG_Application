@@ -1,0 +1,33 @@
+# TechCorp Employee Handbook
+
+## Company Values
+At TechCorp, we believe in:
+- Innovation: Constantly seeking new and better solutions
+- Integrity: Being honest and transparent in all we do
+- Collaboration: Working together to achieve shared goals
+- Customer Focus: Putting our users' needs first
+- Diversity: Embracing different perspectives and backgrounds
+
+## Work Schedule
+- Standard work hours are 9:00 AM to 5:00 PM local time
+- Flexible work arrangements available upon manager approval
+- Remote work options available for most positions
+- Core hours (when all employees should be available): 11:00 AM to 3:00 PM
+
+## Benefits
+- Comprehensive health insurance (medical, dental, vision)
+- 401(k) retirement plan with company matching
+- 20 days of paid time off per year
+- 10 paid holidays annually
+- Parental leave: 16 weeks paid
+- Professional development budget: $2,000 annually
+- Wellness program with gym reimbursement
+
+## Expense Policy
+Employees may be reimbursed for reasonable business expenses, including:
+- Business travel (flights, accommodations, meals)
+- Client meetings and entertainment
+- Professional development and education
+- Required tools and equipment
+
+All expenses must be approved by a manager and submitted with receipts within 30 days.
