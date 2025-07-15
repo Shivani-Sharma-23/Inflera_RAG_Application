@@ -1,6 +1,6 @@
 # 🤖 Inflera RAG-Powered Q\&A Assistant
 
-Welcome to **Inflera**, a Retrieval-Augmented Generation (RAG) based multi-agent Question Answering assistant. This project combines document-based retrieval, LLM-driven answering, and simple agentic decision-making to intelligently route user queries and provide accurate, contextual answers.
+Welcome to **Inflera**, a Retrieval-Augmented Generation (RAG) based multi-agent Question Answering assistant. This project combines document-based retrieval, LLM-driven answering, and simple agentic decision-making to intelligently route user queries and provide accurate, contextual .
 
 ## 🧠 Overview
 
